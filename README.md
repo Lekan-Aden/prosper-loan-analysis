@@ -4,7 +4,7 @@
 
 ## Dataset
 
-This document explores the prosper loan dataset provided by Udacity. For a bit of background, Prosper Loan is a loan-lending platform that offers personal loans to borrowers with a fixed interest rate. The data contains over 100,000 records and 81 attributes, of which I used only a few.
+This document explores the prosper loan dataset provided by Udacity. For a bit of background, Prosper Loan is a loan-lending platform that offers personal loans to borrowers with a fixed interest rate. The data contains over 100,000 records and 81 attributes, of which I used only a few. Here is a link to access the [dataset](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv%26amp;sa%3DD%26amp;ust%3D1581581520570000&sa=D&source=editors&ust=1661859355406100&usg=AOvVaw055wxEglcqIZLS13WovUR3), as well as its [data dictionary](https://www.google.com/url?q=https://docs.google.com/spreadsheet/ccc?key%3D0AllIqIyvWZdadDd5NTlqZ1pBMHlsUjdrOTZHaVBuSlE%26usp%3Dsharing&sa=D&source=editors&ust=1661859355407294&usg=AOvVaw03eJKaPyhL5EmGLZld6Cb8).
 
 ## Summary of Findings
 
